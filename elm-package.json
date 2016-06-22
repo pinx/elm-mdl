@@ -1,7 +1,7 @@
 {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "summary": "Material Design Lite port to Elm",
-    "repository": "https://github.com/debois/elm-mdl.git",
+    "repository": "https://github.com/pinx/elm-mdl.git",
     "license": "BSD3",
     "source-directories": [
         "src"
